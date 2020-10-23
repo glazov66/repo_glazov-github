@@ -1,1 +1,2 @@
-repo_glazov-gui
+
+Remove all information from readme
